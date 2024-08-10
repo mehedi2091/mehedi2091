@@ -6,7 +6,7 @@
  
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230274A8&size=27&lines=Hello;I+AM+Mehedi+Galib;+WELCOME+TO+MY+PROFILE;I+AM+A+Data+Entry+Specialist;THANK+YOU+EVERYONE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230274A8&size=27&lines=HELLO;I+AM+MEHEDI+GALIB;+WELCOME+TO+MY+PROFILE;I+AM+A+DATA+ENTRY+SPECIALIST;THANK+YOU+EVERYONE)](https://git.io/typing-svg)
 
 #### <i>Data Entry Specialist</i>
 ![MdNuruzzaman](https://user-images.githubusercontent.com/105699438/224798363-f5d97cf5-53fe-4d36-b1ad-7f3e9057451b.png)
