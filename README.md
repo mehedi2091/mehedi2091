@@ -10,7 +10,9 @@
 
 <!-- #### <large>Data Entry Specialist</large> -->
 
-![about me](https://github.com/user-attachments/assets/64af4b4f-550f-4b10-bd16-8ea5ad3b0690)
+<!-- ![about me](https://github.com/user-attachments/assets/64af4b4f-550f-4b10-bd16-8ea5ad3b0690) -->
+
+![about me (1)](https://github.com/user-attachments/assets/7c4a1868-9fef-4202-abf7-2b2501ffc40d)
 
 ![Mehedi Galib (1)](https://github.com/user-attachments/assets/85a1b238-206c-4f7e-bfed-69a526ad8f21)
 <!-- ![Mehedi Galib](https://github.com/user-attachments/assets/39815e79-41bb-4a0c-9d20-71c138de33f6) -->
