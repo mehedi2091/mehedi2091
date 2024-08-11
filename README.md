@@ -14,6 +14,8 @@
 
 <!-- ![about me (1)](https://github.com/user-attachments/assets/7c4a1868-9fef-4202-abf7-2b2501ffc40d) -->
 
+![about me (2)](https://github.com/user-attachments/assets/6809e222-6f60-4ab6-b24d-45ff46a14602)
+
 ![Add a heading (1)](https://github.com/user-attachments/assets/73550537-c601-4669-ac25-ee6e166217a1)
 
 <!-- ![Mehedi Galib (1)](https://github.com/user-attachments/assets/85a1b238-206c-4f7e-bfed-69a526ad8f21) -->
