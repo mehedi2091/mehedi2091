@@ -17,7 +17,7 @@
 ![Add a heading (1)](https://github.com/user-attachments/assets/73550537-c601-4669-ac25-ee6e166217a1)
 
 <!-- ![Mehedi Galib (1)](https://github.com/user-attachments/assets/85a1b238-206c-4f7e-bfed-69a526ad8f21) -->
-![Mehedi Galib](https://github.com/user-attachments/assets/39815e79-41bb-4a0c-9d20-71c138de33f6)
+<!-- ![Mehedi Galib](https://github.com/user-attachments/assets/39815e79-41bb-4a0c-9d20-71c138de33f6) -->
 <!-- ![about me](https://github.com/user-attachments/assets/64af4b4f-550f-4b10-bd16-8ea5ad3b0690) -->
 <!-- ![Expertices](https://user-images.githubusercontent.com/105699438/224799398-12023a55-605d-4576-9031-647e4ce63386.png) -->
 ![𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬](https://github.com/user-attachments/assets/2dfcc807-2d49-4198-a5d8-74673a04d631)
