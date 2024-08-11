@@ -26,7 +26,7 @@
 
 ![about me (15)](https://github.com/user-attachments/assets/d9f47fa4-a154-43d6-805d-662213b9c3b4)
 
-![Untitled Project4](https://github.com/user-attachments/assets/fe2c278f-1260-46ff-96bb-c60e1a8f6ec3)
+<!-- ![Untitled Project4](https://github.com/user-attachments/assets/fe2c278f-1260-46ff-96bb-c60e1a8f6ec3) -->
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fe2c278f-1260-46ff-96bb-c60e1a8f6ec3" alt="Untitled Project4">
