@@ -4,7 +4,10 @@
   <img src="https://github.com/user-attachments/assets/fe2c278f-1260-46ff-96bb-c60e1a8f6ec3" alt="Untitled Project4" width="1080">
 </p>
 
-![Untitled Project8](https://github.com/user-attachments/assets/c116a13f-ab0a-429e-98ea-46cffba1cfe3)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c116a13f-ab0a-429e-98ea-46cffba1cfe3" alt="Untitled Project8" width="1080">
+</p>
+
 
 
 
