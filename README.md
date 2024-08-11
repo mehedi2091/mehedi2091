@@ -8,7 +8,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230274A8&size=27&lines=HELLO+!!!;I+AM+MEHEDI+GALIB;+WELCOME+TO+MY+REPO+!!!;I+AM+A+DATA+ENTRY+SPECIALIST;THANKS+FOR+VISITING+MY+REPO+!!!)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=230274A8&width=435&lines=HELLO+!!!;I+AM+MEHEDI+GALIB+;WELCOME+TO+MY+REPO+!!!;I+AM+A+DATA+ENTRY+SPECIALIST+;THANKS+FOR+VISITING+MY+REPO+!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%230274A8&width=435&lines=HELLO+!!!;I+AM+MEHEDI+GALIB+;WELCOME+TO+MY+REPO+!!!;I+AM+A+DATA+ENTRY+SPECIALIST+;THANKS+FOR+VISITING+MY+REPO+!!!)](https://git.io/typing-svg)
 
 <!-- #### <large>Data Entry Specialist</large> -->
 
