@@ -20,6 +20,8 @@
 <!-- ![Expertices](https://user-images.githubusercontent.com/105699438/224799398-12023a55-605d-4576-9031-647e4ce63386.png) -->
 ![𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬](https://github.com/user-attachments/assets/2dfcc807-2d49-4198-a5d8-74673a04d631)
 
+![𝐓𝐨𝐨𝐥𝐬 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐄𝐧𝐭𝐫𝐲](https://github.com/user-attachments/assets/1dd58380-9beb-4753-9562-24dd86d2178e)
+
 | **:stadium: Repositories** | **:star: Stars** | **:books: Forks** | **:bricks: Issues** | **:chart_with_upwards_trend: Pull Request** |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | [Machine Learning Book Collections](https://github.com/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections) | ![Stars](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections.svg?style=flat-square&color=informational) | ![Forks](https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections.svg?style=flat-square&color=yellowgreen) | ![Issues](https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections.svg?style=flat-square&color=critical) | ![Pull Requests](https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections.svg?style=flat-square&color=blueviolet) |
