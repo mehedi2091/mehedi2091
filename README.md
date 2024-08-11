@@ -9,7 +9,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230274A8&size=27&lines=HELLO;I+AM+MEHEDI+GALIB;+WELCOME+TO+MY+PROFILE;I+AM+A+DATA+ENTRY+SPECIALIST;THANK+YOU+EVERYONE)](https://git.io/typing-svg)
 
 #### <large>Data Entry Specialist</large>
-![Mehedi Galib](https://github.com/user-attachments/assets/39815e79-41bb-4a0c-9d20-71c138de33f6)
+
+![Mehedi Galib (1)](https://github.com/user-attachments/assets/85a1b238-206c-4f7e-bfed-69a526ad8f21)
+<!-- ![Mehedi Galib](https://github.com/user-attachments/assets/39815e79-41bb-4a0c-9d20-71c138de33f6) -->
 ![about me](https://github.com/user-attachments/assets/64af4b4f-550f-4b10-bd16-8ea5ad3b0690)
 ![Expertices](https://user-images.githubusercontent.com/105699438/224799398-12023a55-605d-4576-9031-647e4ce63386.png)
 
