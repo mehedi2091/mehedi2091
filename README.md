@@ -14,7 +14,7 @@
 
 <!-- ![about me (1)](https://github.com/user-attachments/assets/7c4a1868-9fef-4202-abf7-2b2501ffc40d) -->
 
-![about me (3)](https://github.com/user-attachments/assets/f32d05b8-79da-4f65-b62a-6f609ec8bc59)
+![about me (4)](https://github.com/user-attachments/assets/8bfdf08a-f210-4fff-aa16-ebf02529beaf)
 
 ![Add a heading (1)](https://github.com/user-attachments/assets/73550537-c601-4669-ac25-ee6e166217a1)
 
