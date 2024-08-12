@@ -1,11 +1,11 @@
 <!-- ![nOOb](https://user-images.githubusercontent.com/105699438/230198605-4323af24-396a-4676-b2a0-d499fd961d19.svg) -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fe2c278f-1260-46ff-96bb-c60e1a8f6ec3" alt="Untitled Project4" width="1080">
+  <img src="https://github.com/user-attachments/assets/fe2c278f-1260-46ff-96bb-c60e1a8f6ec3" alt="Untitled Project4">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b914fc12-e83b-4d90-b3ac-6318cf2b4a4a" alt="Untitled Project8" width="1080">
+  <img src="https://github.com/user-attachments/assets/b914fc12-e83b-4d90-b3ac-6318cf2b4a4a" alt="Untitled Project8">
 </p>
 
 
