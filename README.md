@@ -5,12 +5,6 @@
   <img src="https://github.com/user-attachments/assets/fe2c278f-1260-46ff-96bb-c60e1a8f6ec3" alt="Untitled Project4" width="640">
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/72e3e474-2129-4e9c-8131-23651a7eb55c" alt="Untitled Project8" width="640">
-</p>
-
-
-
 
 <div id="profile-views-badge" align="center">
  
@@ -32,6 +26,10 @@
 
 
 ![Add a heading (2)](https://github.com/user-attachments/assets/6c6a5b1c-ea18-4428-8381-4e535bad8da8)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/72e3e474-2129-4e9c-8131-23651a7eb55c" alt="Untitled Project8" width="640">
+</p>
 
 
 ![about me (15)](https://github.com/user-attachments/assets/d9f47fa4-a154-43d6-805d-662213b9c3b4)
