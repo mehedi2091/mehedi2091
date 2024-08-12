@@ -68,7 +68,7 @@
     <img src="https://i.ibb.co/6Zd5zTr/Add-a-heading-8.png" style="width:250px;max-width:80%;height:auto;" alt="First Button" border="0">
   </a>
   <a href="https://drive.google.com/file/d/1CFRPzlGscf8EuJUe0pXDjABOChnlMYhr/view?usp=sharing" style="text-decoration: none;">
-    <img src="https://i.ibb.co/sg68MNZ/Add-a-heading-9.png" style="display: block; margin-left: 250px; width:250px;max-width:80%;height:auto;" alt="Second Button" border="0">
+    <img src="https://camo.githubusercontent.com/2f9be67327aab7df5cd2b7a89ad48a236bb45041c926704b9de26489de714d12/68747470733a2f2f692e6962622e636f2f736736384d4e5a2f4164642d612d68656164696e672d392e706e67" style="width: 250px; max-width: 100%;margin-left: 300px;" alt="Second Button" border="0" data-canonical-src="https://i.ibb.co/sg68MNZ/Add-a-heading-9.png">
   </a>
 </div>
 <hr>
