@@ -67,7 +67,7 @@
   <a href="https://drive.google.com/file/d/1CFRPzlGscf8EuJUe0pXDjABOChnlMYhr/view?usp=sharing" style="text-decoration: none;">
     <img src="https://i.ibb.co/6Zd5zTr/Add-a-heading-8.png" style="width:250px;max-width:80%;height:auto;" alt="First Button" border="0">
   </a>
-  <a href="https://drive.google.com/file/d/1CFRPzlGscf8EuJUe0pXDjABOChnlMYhr/view?usp=sharing" style="text-decoration: none; margin-left: 100px;">
+  <a href="https://drive.google.com/file/d/1CFRPzlGscf8EuJUe0pXDjABOChnlMYhr/view?usp=sharing" style="text-decoration: none; margin-left: 500px;">
     <img src="https://i.ibb.co/sg68MNZ/Add-a-heading-9.png" style="width:250px;max-width:80%;height:auto;" alt="Second Button" border="0">
   </a>
 </div>
