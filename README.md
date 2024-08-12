@@ -73,8 +73,6 @@
 <a href="https://github.com/mdnuruzzamanKALLOL"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=mdnuruzzamanKALLOL&theme=monokai"></a>
 </p>
 
-<p align="center"><img src="https://github.com/oxygen51/oxygen51/blob/main/2.gif" alt="Bt">
-<p align="center"><img src="https://github.com/oxygen51/oxygen51/blob/main/4.gif" alt="Bt" width="400">
 
 <h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
 <table border="1">
