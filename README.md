@@ -2,11 +2,11 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fe2c278f-1260-46ff-96bb-c60e1a8f6ec3" alt="Untitled Project4">
+  <img src="https://github.com/user-attachments/assets/fe2c278f-1260-46ff-96bb-c60e1a8f6ec3" alt="Untitled Project4" width="640">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/72e3e474-2129-4e9c-8131-23651a7eb55c" alt="Untitled Project8">
+  <img src="https://github.com/user-attachments/assets/72e3e474-2129-4e9c-8131-23651a7eb55c" alt="Untitled Project8" width="640">
 </p>
 
 
