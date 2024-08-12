@@ -68,10 +68,10 @@
     <img src="https://i.ibb.co/6Zd5zTr/Add-a-heading-8.png" style="width:250px;max-width:80%;height:auto;" alt="First Button" border="0">
   </a>
   <a href="https://drive.google.com/file/d/1CFRPzlGscf8EuJUe0pXDjABOChnlMYhr/view?usp=sharing" style="text-decoration: none;">
-    <img src="https://i.ibb.co/sg68MNZ/Add-a-heading-9.png" style="display: block; margin-left: 300px; width:250px;" alt="Second Button" border="0">
+    <img src="https://i.ibb.co/k5Hb496/Add-a-heading-10.png" style="display: block; margin-left: 300px; width:250px;" alt="Second Button" border="0">
   </a>
   <a href="https://drive.google.com/file/d/1CFRPzlGscf8EuJUe0pXDjABOChnlMYhr/view?usp=sharing" style="text-decoration: none;">
-    <img src="https://i.ibb.co/k5Hb496/Add-a-heading-10.png" style="display: block; margin-left: 300px; width:250px;" alt="Second Button" border="0">
+    <img src="https://i.ibb.co/sg68MNZ/Add-a-heading-9.png" style="display: block; margin-left: 300px; width:250px;" alt="Second Button" border="0">
   </a>
 </div>
 <hr>
