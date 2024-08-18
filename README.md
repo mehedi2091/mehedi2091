@@ -76,20 +76,6 @@
 </div>
 <hr>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Open Link in New Tab</title>
-</head>
-<body>
-    <a href="https://mehedi2091.github.io/Portfolio" target="_blank">
-        <img src="https://i.ibb.co/6Zd5zTr/Add-a-heading-8.png" alt="Button Image" style="width:200px;"/>
-    </a>
-</body>
-</html>
-
 
 
 
