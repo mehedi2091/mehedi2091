@@ -75,9 +75,7 @@
   </a>
 </div>
 <hr>
-<a href="https://mehedi2091.github.io/Portfolio" target="_blank">
-    <img src="https://i.ibb.co/6Zd5zTr/Add-a-heading-8.png" alt="Button Image" style="width:200px;"/>
-</a>
+[![Button Image](https://i.ibb.co/6Zd5zTr/Add-a-heading-8.png)](https://mehedi2091.github.io/Portfolio)
 
 
 
